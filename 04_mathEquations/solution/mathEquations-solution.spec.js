@@ -1,4 +1,4 @@
-const {a, b, c, d, e, f} = require('./mathEquations-solution')
+const {a, b, c, d, e, f} = require('./mathEquations-solution');
 
 describe('math', () => {
   test('a is 0', () => {
